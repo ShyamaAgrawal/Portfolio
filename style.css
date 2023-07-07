@@ -372,6 +372,6 @@ textarea {
 }
 @media(max-width:500px) {
   body {
-    max-width:500px;
+    min-width:500px;
   }
 }
